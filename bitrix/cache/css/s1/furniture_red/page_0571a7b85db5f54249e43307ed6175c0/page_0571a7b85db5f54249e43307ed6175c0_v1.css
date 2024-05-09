@@ -1,0 +1,19 @@
+
+
+/* Start:/local/components/exam2/complexcomp.exam/templates/.default/bitrix/photo.sections.top/.default/style.css?1477478566308*/
+div.photo-sections-top table.data-table tr.head-row td {
+	padding:10px 5px;
+	border-bottom:none;
+}
+div.photo-sections-top table.data-table tr.data-row {
+	border-top:none;
+	border-bottom:none;
+}
+div.photo-sections-top table.data-table th.data-cell {
+	border-top:none;
+	border-bottom:none;
+	padding:2px 2px;
+}
+
+/* End */
+/* /local/components/exam2/complexcomp.exam/templates/.default/bitrix/photo.sections.top/.default/style.css?1477478566308 */

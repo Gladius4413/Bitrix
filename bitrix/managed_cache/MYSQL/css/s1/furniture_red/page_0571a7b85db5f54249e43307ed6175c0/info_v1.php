@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/exam2/complexcomp.exam/templates/.default/bitrix/photo.sections.top/.default/style.css" => "1477478566308",]; ?>
